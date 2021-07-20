@@ -1,0 +1,16 @@
+/home/raphael/Studying/ProjetoPessoal/ProjetoPessoal/bin/Debug/net5.0/ProjetoPessoal
+/home/raphael/Studying/ProjetoPessoal/ProjetoPessoal/bin/Debug/net5.0/ProjetoPessoal.deps.json
+/home/raphael/Studying/ProjetoPessoal/ProjetoPessoal/bin/Debug/net5.0/ProjetoPessoal.runtimeconfig.json
+/home/raphael/Studying/ProjetoPessoal/ProjetoPessoal/bin/Debug/net5.0/ProjetoPessoal.runtimeconfig.dev.json
+/home/raphael/Studying/ProjetoPessoal/ProjetoPessoal/bin/Debug/net5.0/ProjetoPessoal.dll
+/home/raphael/Studying/ProjetoPessoal/ProjetoPessoal/bin/Debug/net5.0/ref/ProjetoPessoal.dll
+/home/raphael/Studying/ProjetoPessoal/ProjetoPessoal/bin/Debug/net5.0/ProjetoPessoal.pdb
+/home/raphael/Studying/ProjetoPessoal/ProjetoPessoal/obj/Debug/net5.0/ProjetoPessoal.csproj.AssemblyReference.cache
+/home/raphael/Studying/ProjetoPessoal/ProjetoPessoal/obj/Debug/net5.0/ProjetoPessoal.GeneratedMSBuildEditorConfig.editorconfig
+/home/raphael/Studying/ProjetoPessoal/ProjetoPessoal/obj/Debug/net5.0/ProjetoPessoal.AssemblyInfoInputs.cache
+/home/raphael/Studying/ProjetoPessoal/ProjetoPessoal/obj/Debug/net5.0/ProjetoPessoal.AssemblyInfo.cs
+/home/raphael/Studying/ProjetoPessoal/ProjetoPessoal/obj/Debug/net5.0/ProjetoPessoal.csproj.CoreCompileInputs.cache
+/home/raphael/Studying/ProjetoPessoal/ProjetoPessoal/obj/Debug/net5.0/ProjetoPessoal.dll
+/home/raphael/Studying/ProjetoPessoal/ProjetoPessoal/obj/Debug/net5.0/ref/ProjetoPessoal.dll
+/home/raphael/Studying/ProjetoPessoal/ProjetoPessoal/obj/Debug/net5.0/ProjetoPessoal.pdb
+/home/raphael/Studying/ProjetoPessoal/ProjetoPessoal/obj/Debug/net5.0/ProjetoPessoal.genruntimeconfig.cache
