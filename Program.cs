@@ -11,7 +11,7 @@ class Desafio {
             if (Y == 0) {
                 Console.WriteLine("divisao impossivel");
             } else {
-                double divisao = X / Y; // Digite aqui o calculo da divisao
+                double divisao = X / Y; // Para solução do problema, foi apenas corrigido o calculo da divisão que anteriormente estava (double divisão = 1 * 1)
                 Console.WriteLine(divisao.ToString("N1"));
             }
         }
